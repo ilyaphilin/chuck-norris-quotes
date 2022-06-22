@@ -1,0 +1,19 @@
+.chuckImage {
+    z-index: -1;
+    float: right;
+    margin-right: 24px;
+    margin-top: -327px;
+}
+
+.quoteSection .quote {
+    z-index: 1;
+    color: #ffffff;
+    position: relative;
+    font-style: normal;
+    background: #422ED4;
+    border-radius: 25px;
+    font-size: 20px;
+    line-height: 150%;
+    margin-top: 140px;
+    padding: 24px 24px 100px;
+}
