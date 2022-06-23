@@ -13,12 +13,12 @@ export default function QuoteSection({selectedCategory}){
 
     return(
         <div className="quoteSection">
-            <p className='quote'>{quote.value}</p>
             <img
                 className="chuckImage"
                 src={Chuck}
                 alt="Chuck-Norris"
             />
+            <p className='quote'>{quote.value}</p>
         </div>
     );
 }

@@ -18,16 +18,14 @@ export default function Categories() {
     }
 
     return (
-        <>
-            <main className="categories">
-                <h1>Categories</h1>
-                <div className="wrapperCategories">
-                    {categories.map((item, index) => {
-                        return <button onClick={handleClick(item)} key={index}>{item}</button>;
-                    })}
-                </div>
-                <QuoteSection selectedCategory={selectedCategory}/>
-            </main>
-        </>
+        <main className="categories">
+            <h1>Categories</h1>
+            <div className="wrapperCategories">
+                {categories.map((item, index) => {
+                    return <button onClick={handleClick(item)} key={index}>{item}</button>;
+                })}
+            </div>
+            <QuoteSection selectedCategory={selectedCategory}/>
+        </main>
     );
 }
