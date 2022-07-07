@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/chuck-norris-quotes/static/css/main.d3734094.css",
+    "main.js": "/chuck-norris-quotes/static/js/main.7e7e4b7e.js",
+    "static/js/787.1355b438.chunk.js": "/chuck-norris-quotes/static/js/787.1355b438.chunk.js",
+    "static/media/norris.png": "/chuck-norris-quotes/static/media/norris.125e41cbd9fcaf1228c3.png",
+    "index.html": "/chuck-norris-quotes/index.html",
+    "main.d3734094.css.map": "/chuck-norris-quotes/static/css/main.d3734094.css.map",
+    "main.7e7e4b7e.js.map": "/chuck-norris-quotes/static/js/main.7e7e4b7e.js.map",
+    "787.1355b438.chunk.js.map": "/chuck-norris-quotes/static/js/787.1355b438.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3734094.css",
+    "static/js/main.7e7e4b7e.js"
+  ]
+}
